@@ -1,0 +1,9 @@
+## Title: clean raiders
+## Interface: 11302
+## Notes: clean raiders
+## Version: 1.0
+## SavedVariables: cleanraidersDB, LastPage
+
+Libraries\Load_Libraries.xml
+MenuClass.lua
+cleanraiders.lua
